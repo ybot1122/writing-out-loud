@@ -1,0 +1,9 @@
+# Ignore artifacts:
+build
+coverage
+content
+public
+node_modules
+.next
+*.tsbuildinfo
+package-lock.json
